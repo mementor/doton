@@ -4,7 +4,7 @@ Credits to https://github.com/copperbits/TON
 
 TON Test Lite Client
 ```
-➭ docker run -it -v "$(pwd):/data/mount" --name doton doton
+➭ docker run -it -v "$(pwd):/data/mount" --name doton mentro/doton
 ```
 
 ## New wallet with free Grams from testgiver
