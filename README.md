@@ -29,7 +29,7 @@ last
 ## Send Grams from your wallet to some another wallet
 In attached session:
 ```
-../wallet.fif doton another_wallet_address 0x1 5 doton/send-to-query
+../wallet.fif doton/wallet another_wallet_address 0x1 5 doton/send-to-query
 ```
 
 In lite-client console:
